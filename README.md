@@ -1,8 +1,11 @@
 ## Hey, 🤝 Mehedi Here
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nopaws/)
-!['Github Follower'](https://img.shields.io/github/followers/gitmehedi?style=for-the-badge)
-[![Twitter Follow](https://img.shields.io/twitter/follow/gitmehedi?label=Follow)](https://twitter.com/intent/follow?screen_name=gitmehedi)
-![](https://komarev.com/ghpvc/?username=gitmehedi&color=brightgreen&&label=PROFILE+VIEWS)
+[![Twitter](https://img.shields.io/badge/-Twitter-0e76a8?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gitmehedi)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/swap0n/) 
+[<img src = "https://img.shields.io/badge/website-%231877F2.svg?&style=for-the-badge&logo=website&logoColor=white">](https://www.swapon.blog) 
+[<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/ptprashanttripathi)  
+
+![counter](https://komarev.com/ghpvc/?username=gitmehedi&color=brightgreen&&label=PROFILE+VIEWS&style=for-the-badge)
 
 
 ### Personal Stuffs
