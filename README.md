@@ -1,4 +1,5 @@
 ## Hey, 🤝 Mehedi Here
+[![LinkedIn]()](https://www.linkedin.com/in/nopaws/)
 !['Github Follower'](https://img.shields.io/github/followers/gitmehedi?style=for-the-badge)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gitmehedi?label=Follow)](https://twitter.com/intent/follow?screen_name=gitmehedi)
 ![](https://komarev.com/ghpvc/?username=gitmehedi&color=brightgreen&&label=PROFILE+VIEWS)
