@@ -12,29 +12,29 @@
 ### 🛠 &nbsp;Tech Stack
 
 - Languages: &nbsp;
-  ![PYTHON](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-  ![PHP](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![PYTHON](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
+  ![PHP](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=php)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
   
 
 - Frameworks: &nbsp;
-  ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-  ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+  ![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+  ![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)\
+  ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
   
 
 - Databases:  &nbsp;
-  ![Postgres](https://img.shields.io/badge/-Firestore-333333?style=for-the-badge&logo=#4169E1)
+  ![Postgres](https://img.shields.io/badge/-Postgresql-333333?style=for-the-badge&logo=postgresql)
   ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=for-the-badge&logo=mongodb)
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=for-the-badge&logo=mysql)
 
 - IDEs: &nbsp;
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=pycharm-idea&logoColor=f70486)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=for-the-badge&logo=pycharm-idea&logoColor=f70486)
 
 ### Github Analytics
 <p align="left">
