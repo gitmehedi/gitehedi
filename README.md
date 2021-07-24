@@ -6,7 +6,7 @@
 
 ![counter](https://komarev.com/ghpvc/?username=gitmehedi&color=brightgreen&&label=PROFILE+VIEWS&style=for-the-badge)
 
-I am recently working in a reknowed software company in Bangladesh and looking for opportunities and collabaration in projects related to data science and deep learning. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Software Development 🕸️ and working on docker and kubernetes infrastructure 🤓. Although A computer science engineer working with DevOps tools and looking forward to Share and Gain knowledgeable stuff☘️.
+I am Mehedi Hasan, working as a software engineer in a renowned software company in Bangladesh. Currently looking for new opportunities and try to collaborate in projects related to data science and deep learning.  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Software Development 🕸️ and working on docker and Kubernetes infrastructure 🤓. Although a computer engineer working with DevOps tools and looking forward to Share and Gain knowledgeable stuff☘️.
 
 ### ⚙️ Personal Stuffs
 
