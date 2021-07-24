@@ -11,11 +11,11 @@ I am recently working in a reknowed software company in Bangladesh and looking f
 ### Personal Stuffs
 
 - 👨‍💻 Portfolio  [swapon.me](https://swapon.me)
-- 👨‍🎓 Experience Level: *+ years
+- 👨‍🎓 Experience Level: 9+ years
 - 💻 I’m currently learning Full Stack Development 🚀.
 - 🧩 Interested in: Technology, Politics, spaceX, Web Development and Machine Learning.
 - 💡 Equipments: Sarcasm, Knowledge, C, Python, HTML, CSS, Linux, and Python!
-- ⚡ Fun fact **Love to learn new things**
+- ⚡ Fun fact ** Love to learn new things**
 - 📝 [Resume](https://drive.google.com/file/d/15F_vodhWA6juV24sWqQzHYiH6-ym9t5R/view?usp=sharing)
 - 💬 Ask me about anything [here](https://github.com/gitmehedi/gitmehedi/issues/1)! I am happy to help.
 
