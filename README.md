@@ -3,7 +3,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-0e76a8?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gitmehedi)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/swap0n/) 
 [<img src = "https://img.shields.io/badge/website-%231877F2.svg?&style=for-the-badge&logo=website&logoColor=white">](https://www.swapon.blog) 
-[<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/ptprashanttripathi)  
 
 ![counter](https://komarev.com/ghpvc/?username=gitmehedi&color=brightgreen&&label=PROFILE+VIEWS&style=for-the-badge)
 
@@ -35,5 +34,10 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 ### Github Analytics
-
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gitmehedi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gitmehedi&layout=compact&langs_count=20&theme=algolia"/>
+</a>
+</p>
 ###  Connect With Me
