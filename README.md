@@ -10,7 +10,7 @@ I am recently working in a reknowed software company in Bangladesh and looking f
 
 ### Personal Stuffs
 
-- 👨‍💻 Portfolio  [swapon.me](https://swapon.me)
+- 👨‍💻 Portfolio  [swapon.me](https://swapon.me) and Blog [swapon.blog](https://swapon.blog)
 - 👨‍🎓 Experience Level: 9+ years
 - 💻 I’m currently learning Full Stack Development 🚀.
 - 🧩 Interested in: Technology, Politics, spaceX, Web Development and Machine Learning.
@@ -21,29 +21,28 @@ I am recently working in a reknowed software company in Bangladesh and looking f
 
 ### 🛠 &nbsp;Tech Stack
 
- #### Languages:
-  ![PYTHON](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
-  ![Bash](https://img.shields.io/badge/-bash-05122A?style=for-the-badge&logo=bash)&nbsp;
-  ![PHP](https://img.shields.io/badge/-Php-05122A?style=for-the-badge&logo=php)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)\
-  ![Odoo](https://img.shields.io/badge/-Odoo-05122A?style=for-the-badge&logo=openerp&logoColor=092E20)&nbsp;
-  ![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
-  ![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;\
-  ![Postgres](https://img.shields.io/badge/-Postgresql-333333?style=for-the-badge&logo=postgresql)
-  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=for-the-badge&logo=mongodb)
-  ![MySql](https://img.shields.io/badge/-MySql-333333?style=for-the-badge&logo=mysql)\
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse)
-  ![Pycharm IDEA](https://img.shields.io/badge/-Pycharm%20IDEA-333333?style=for-the-badge&logo=pycharm-idea&logoColor=f70486)\
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
-  ![Redhat](https://img.shields.io/badge/-Redhat-333333?style=for-the-badge&logo=redhat&logoColor=red)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=for-the-badge&logo=kubernetes)
+ ![PYTHON](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
+ ![Bash](https://img.shields.io/badge/-bash-05122A?style=for-the-badge&logo=bash)&nbsp;
+ ![PHP](https://img.shields.io/badge/-Php-05122A?style=for-the-badge&logo=php)&nbsp;
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+ ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
+ ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)\
+ ![Odoo](https://img.shields.io/badge/-Odoo-05122A?style=for-the-badge&logo=openerp&logoColor=092E20)&nbsp;
+ ![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django)&nbsp;
+ ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+ ![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask)&nbsp;
+ ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+ ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;\
+ ![Postgres](https://img.shields.io/badge/-Postgresql-333333?style=for-the-badge&logo=postgresql)
+ ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=for-the-badge&logo=mongodb)
+ ![MySql](https://img.shields.io/badge/-MySql-333333?style=for-the-badge&logo=mysql)\
+ ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse)
+ ![Pycharm IDEA](https://img.shields.io/badge/-Pycharm%20IDEA-333333?style=for-the-badge&logo=pycharm-idea&logoColor=f70486)\
+ ![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
+ ![Redhat](https://img.shields.io/badge/-Redhat-333333?style=for-the-badge&logo=redhat&logoColor=red)
+ ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
+ ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
+ ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=for-the-badge&logo=kubernetes)
 
 ### Github Analytics
 <p align="left">
