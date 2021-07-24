@@ -41,9 +41,11 @@ I am Mehedi Hasan, working as a software engineer in a renowned software company
  ![Pycharm IDEA](https://img.shields.io/badge/-Pycharm%20IDEA-333333?style=for-the-badge&logo=pycharm-idea&logoColor=f70486)\
  ![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
  ![Redhat](https://img.shields.io/badge/-Redhat-333333?style=for-the-badge&logo=redhat&logoColor=red)
- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
- ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=for-the-badge&logo=kubernetes)
+ ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu&logoColor=red)
+ ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker&logoColor=blue)
+ ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=for-the-badge&logo=kubernetes&logoColor=white)\
+ ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white)
+ ![Github](https://img.shields.io/badge/-Github-333333?style=for-the-badge&logo=github&logoColor=white)
 
 ### Github Analytics
 <p align="left">
