@@ -1,4 +1,4 @@
-## Hey, 🤝 Mehedi Here
+## Hey 🤝, Mehedi Here
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nopaws/)
 [![Twitter](https://img.shields.io/badge/-Twitter-0e76a8?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gitmehedi)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/swap0n/) 
