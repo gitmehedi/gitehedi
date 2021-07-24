@@ -1,8 +1,10 @@
 ## Hey, 🤝 Mehedi Here
+![Github Follower](https://img.shields.io/github/followers/gitmehedi?style=for-the-badge)
+![]
 ![](https://komarev.com/ghpvc/?username=gitmehedi&color=brightgreen&&label=PROFILE+VIEWS)
 
 
-### Personal stuffs
+### Personal Stuffs
 
 ### 🛠 &nbsp;Tech Stack
 
