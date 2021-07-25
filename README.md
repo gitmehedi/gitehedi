@@ -1,7 +1,7 @@
 ## Hey 🤝, it's Mehedi 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nopaws/)
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-0e76a8?style=for-the-badge&logo=Stackoverflow&logoColor=white&color=ef8236)](https://stackoverflow.com/users/2176115/mehedi-hasan)
-[![Twitter](https://img.shields.io/badge/-Twitter-0e76a8?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gitmehedi)
+[![Twitter](https://img.shields.io/badge/-Twitter-0e76a8?style=for-the-badge&logo=Twitter&logoColor=white&color=00acee)](https://twitter.com/gitmehedi)
 [![Instagram](https://img.shields.io/badge/-Instagram-23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&color=FD1D1D)](https://www.instagram.com/swap0n)
 [![Website](https://img.shields.io/badge/-Website-23E4405F?style=for-the-badge&logo=Website&logoColor=white&color=orange)](https://www.swapon.blog) 
 [![Resume](https://img.shields.io/badge/-Resume-23E4405F?style=for-the-badge&logo=Resume&logoColor=Red&color=green)](https://drive.google.com/file/d/15F_vodhWA6juV24sWqQzHYiH6-ym9t5R/view) 
