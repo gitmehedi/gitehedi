@@ -2,8 +2,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nopaws/)
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-0e76a8?style=for-the-badge&logo=Stackoverflow&logoColor=white&color=ef8236)](https://stackoverflow.com/users/2176115/mehedi-hasan)
 [![Twitter](https://img.shields.io/badge/-Twitter-0e76a8?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gitmehedi)
-[![Instagram](https://img.shields.io/badge/-Instagram-23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&color=ref)](https://www.instagram.com/swap0n)
+[![Instagram](https://img.shields.io/badge/-Instagram-23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&color=FD1D1D)](https://www.instagram.com/swap0n)
 [![Website](https://img.shields.io/badge/-Website-23E4405F?style=for-the-badge&logo=Website&logoColor=white&color=orange)](https://www.swapon.blog) 
+[![Resume](https://img.shields.io/badge/-Resume-23E4405F?style=for-the-badge&logo=Resume&logoColor=Red&color=green)](https://drive.google.com/file/d/15F_vodhWA6juV24sWqQzHYiH6-ym9t5R/view) 
 
 ![counter](https://komarev.com/ghpvc/?username=gitmehedi&color=brightgreen&&label=PROFILE+VIEWS&style=for-the-badge)
 
@@ -14,11 +15,9 @@ I am Mehedi Hasan, working as a software engineer in a renowned software company
 - 👨‍💻 Portfolio  [swapon.me](https://swapon.me) and Blog [swapon.blog](https://swapon.blog)
 - 👨‍🎓 Experience Level: 9+ years
 - 💻 I’m currently learning Full Stack Development 🚀.
-- 🧩 Interested in: Technology, Politics, spaceX, Web Development and Machine Learning.
+- 🧩 Interested in: Technology, Web Development and Machine Learning.
 - 💡 Equipments: Sarcasm, Knowledge, C, Python, HTML, CSS, Linux, and Python!
 - ⚡ Fun fact **Love to learn new things**
-- 📝 [Resume](https://drive.google.com/file/d/15F_vodhWA6juV24sWqQzHYiH6-ym9t5R/view?usp=sharing)
-- 💬 Ask me about anything [here](https://github.com/gitmehedi/gitmehedi/issues/1)! I am happy to help.
 
 
 ### 🛠 &nbsp;Tech Stack
