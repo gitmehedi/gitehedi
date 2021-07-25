@@ -43,7 +43,8 @@ I am Mehedi Hasan, working as a software engineer in a renowned software company
  ![Redhat](https://img.shields.io/badge/-Redhat-333333?style=for-the-badge&logo=redhat&logoColor=red)
  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu&logoColor=red)
  ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker&logoColor=blue)
- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=for-the-badge&logo=kubernetes&logoColor=white)\
+ ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=for-the-badge&logo=kubernetes&logoColor=white)
+ ![AWS](https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazon&logoColor=white)\
  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white)
  ![Github](https://img.shields.io/badge/-Github-333333?style=for-the-badge&logo=github&logoColor=white)
 
