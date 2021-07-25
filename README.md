@@ -1,9 +1,9 @@
 ## Hey 🤝, it's Mehedi 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nopaws/)
+[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-0e76a8?style=for-the-badge&logo=Stackoverflow&logoColor=white&color=ef8236)](https://stackoverflow.com/users/2176115/mehedi-hasan)
 [![Twitter](https://img.shields.io/badge/-Twitter-0e76a8?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gitmehedi)
-[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-0e76a8?style=for-the-badge&logo=Stackoverflow&logoColor=white)](https://twitter.com/gitmehedi)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/swap0n/) 
-[<img src = "https://img.shields.io/badge/website-%231877F2.svg?&style=for-the-badge&logo=website&logoColor=white">](https://www.swapon.blog) 
+[![Instagram](https://img.shields.io/badge/-Instagram-23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&color=ref)](https://www.instagram.com/swap0n)
+[![Website](https://img.shields.io/badge/-Website-23E4405F?style=for-the-badge&logo=Website&logoColor=white&color=orange)](https://www.swapon.blog) 
 
 ![counter](https://komarev.com/ghpvc/?username=gitmehedi&color=brightgreen&&label=PROFILE+VIEWS&style=for-the-badge)
 
