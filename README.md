@@ -28,25 +28,26 @@ I am Mehedi Hasan, working as a software engineer in a renowned software company
  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
  ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
  ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)\
- ![Odoo](https://img.shields.io/badge/-Odoo-05122A?style=for-the-badge&logo=openerp&logoColor=092E20)&nbsp;
+ ![Odoo](https://img.shields.io/badge/-Odoo-05122A?style=for-the-badge&logo=odoo&logoColor=092E20)&nbsp;
  ![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django)&nbsp;
  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
  ![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask)&nbsp;
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+ ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=for-the-badge&logo=jquery)&nbsp;
  ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;\
  ![Postgres](https://img.shields.io/badge/-Postgresql-333333?style=for-the-badge&logo=postgresql)
  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=for-the-badge&logo=mongodb)
  ![MySql](https://img.shields.io/badge/-MySql-333333?style=for-the-badge&logo=mysql)\
  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse)
- ![Pycharm IDEA](https://img.shields.io/badge/-Pycharm%20IDEA-333333?style=for-the-badge&logo=pycharm-idea&logoColor=f70486)\
+ ![Pycharm IDE](https://img.shields.io/badge/-Pycharm%20IDE-333333?style=for-the-badge&logo=pycharm-idea&logoColor=f70486)\
  ![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
- ![Redhat](https://img.shields.io/badge/-Redhat-333333?style=for-the-badge&logo=redhat&logoColor=red)
- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu&logoColor=red)
- ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker&logoColor=blue)
- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=for-the-badge&logo=kubernetes&logoColor=white)
- ![AWS](https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazon&logoColor=white)\
- ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white)
- ![Github](https://img.shields.io/badge/-Github-333333?style=for-the-badge&logo=github&logoColor=white)
+ ![Redhat](https://img.shields.io/badge/-Redhat-333333?style=for-the-badge&logo=redhat)
+ ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
+ ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
+ ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=for-the-badge&logo=kubernetes)
+ ![AWS](https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazon)\
+ ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+ ![Github](https://img.shields.io/badge/-Github-333333?style=for-the-badge&logo=github)
 
 ### Github Analytics
 <p align="left">
