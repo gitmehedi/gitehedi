@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-0e76a8?style=for-the-badge&logo=Twitter&logoColor=white&color=00acee)](https://twitter.com/gitmehedi)
 [![Instagram](https://img.shields.io/badge/-Instagram-23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&color=FD1D1D)](https://www.instagram.com/swap0n)
 [![Website](https://img.shields.io/badge/-Website-23E4405F?style=for-the-badge&logo=Website&logoColor=white&color=orange)](https://www.swapon.blog) 
-[![Resume](https://img.shields.io/badge/-Resume-23E4405F?style=for-the-badge&logo=Resume&logoColor=Red&color=green)](https://drive.google.com/file/d/15F_vodhWA6juV24sWqQzHYiH6-ym9t5R/view) 
+[![Resume](https://img.shields.io/badge/-Resume-23E4405F?style=for-the-badge&logo=Resume&logoColor=Red&color=green)](https://github.com/gitmehedi/gitmehedi.github.io/blob/master/MD_MEHEDI_HASAN.pdf) 
 
 ![counter](https://komarev.com/ghpvc/?username=gitmehedi&color=brightgreen&&label=PROFILE+VIEWS&style=for-the-badge)
 
