@@ -12,8 +12,8 @@ I am Mehedi Hasan, working as a software engineer in a renowned software company
 
 ### ⚙️ Personal Stuffs
 
-- 👨‍💻 Portfolio  [swapon.me](https://swapon.me) and Blog [swapon.blog](https://swapon.blog)
-- 👨‍🎓 Experience Level: 9+ years
+- 👨‍💻 Portfolio [swapon.me](https://swapon.me)
+- 👨‍🎓 Experience Level: 10+ years
 - 💻 I’m currently working as Full Stack Developer 🚀.
 - 🧩 Interested in: Technology, Software Development, Machine Learning, Travelling, Badminton, Football, Cricket, Walking, Cycling.
 - 💡 Equipments: Sarcasm, Knowledge, C, Python, HTML, CSS, Linux, and Python!
