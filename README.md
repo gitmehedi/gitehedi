@@ -27,26 +27,26 @@ I am an experienced tech lead with over 10 years of experience in full-stack sof
  ![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django)&nbsp;
  ![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask)&nbsp;
  ![PHP](https://img.shields.io/badge/-Php-05122A?style=for-the-badge&logo=php)&nbsp;
- ![Bash](https://img.shields.io/badge/-bash-05122A?style=for-the-badge&logo=bash)&nbsp;
+ ![Bash](https://img.shields.io/badge/-bash-05122A?style=for-the-badge&logo=bash)&nbsp; \
  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
  ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=for-the-badge&logo=jquery)&nbsp;
- ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;\
- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+ ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+ ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp; \
  ![Postgres](https://img.shields.io/badge/-Postgresql-333333?style=for-the-badge&logo=postgresql)
  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=for-the-badge&logo=mongodb)
  ![Redis](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=for-the-badge&logo=redis)
- ![MySql](https://img.shields.io/badge/-MySql-333333?style=for-the-badge&logo=mysql)\
+ ![MySql](https://img.shields.io/badge/-MySql-333333?style=for-the-badge&logo=mysql) \
  ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
  ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)\
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse)
- ![Pycharm IDE](https://img.shields.io/badge/-Pycharm%20IDE-333333?style=for-the-badge&logo=pycharm-idea&logoColor=f70486)\
+ ![Pycharm IDE](https://img.shields.io/badge/-Pycharm%20IDE-333333?style=for-the-badge&logo=pycharm-idea&logoColor=f70486) \
  ![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
  ![Redhat](https://img.shields.io/badge/-Redhat-333333?style=for-the-badge&logo=redhat)
  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
  ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=for-the-badge&logo=kubernetes)
- ![AWS](https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazon)\
+ ![AWS](https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazon) \
  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
  ![Github](https://img.shields.io/badge/-Github-333333?style=for-the-badge&logo=github)
  ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=for-the-badge&logo=scrum)
