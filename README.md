@@ -8,7 +8,7 @@
 
 ![counter](https://komarev.com/ghpvc/?username=gitmehedi&color=brightgreen&&label=PROFILE+VIEWS&style=for-the-badge)
 
-I am Mehedi Hasan, working as a software engineer in a renowned software company in Bangladesh. Currently looking for new opportunities and try to collaborate in projects related to data science and deep learning.  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Software Development 🕸️ and working on docker and Kubernetes infrastructure 🤓. Although a computer engineer working with DevOps tools and looking forward to Share and Gain knowledgeable stuff☘️.
+I am an experienced tech lead with over 10 years of experience in full-stack software development. I have developed a strong understanding of software and ERP implementation, and I'm passionate about delivering high-quality, high impact technology solutions. I excel at collaborating with stakeholders to identify user needs, design roadmaps, and manage projects.
 
 ### ⚙️ Personal Stuffs
 
@@ -16,28 +16,29 @@ I am Mehedi Hasan, working as a software engineer in a renowned software company
 - 👨‍🎓 Experience Level: 10+ years
 - 💻 I’m currently working as Full Stack Developer 🚀.
 - 🧩 Interested in: Technology, Software Development, Machine Learning, Travelling, Badminton, Football, Cricket, Walking, Cycling.
-- 💡 Equipments: Sarcasm, Knowledge, C, Python, HTML, CSS, Linux, and Python!
+- 💡 Equipment: Sarcasm, Knowledge, C, Python, HTML, CSS, Linux, and Python!
 - ⚡ Fun fact **Love to learn new things**
 
 
 ### 🛠 &nbsp;Tech Stack
 
  ![PYTHON](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
- ![Bash](https://img.shields.io/badge/-bash-05122A?style=for-the-badge&logo=bash)&nbsp;
- ![PHP](https://img.shields.io/badge/-Php-05122A?style=for-the-badge&logo=php)&nbsp;
- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
- ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
- ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)\
  ![Odoo](https://img.shields.io/badge/-Odoo-05122A?style=for-the-badge&logo=odoo&logoColor=092E20)&nbsp;
  ![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django)&nbsp;
- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
  ![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask)&nbsp;
- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+ ![PHP](https://img.shields.io/badge/-Php-05122A?style=for-the-badge&logo=php)&nbsp;
+ ![Bash](https://img.shields.io/badge/-bash-05122A?style=for-the-badge&logo=bash)&nbsp;
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
  ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=for-the-badge&logo=jquery)&nbsp;
  ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;\
+ ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
  ![Postgres](https://img.shields.io/badge/-Postgresql-333333?style=for-the-badge&logo=postgresql)
  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=for-the-badge&logo=mongodb)
+ ![Redis](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=for-the-badge&logo=redis)
  ![MySql](https://img.shields.io/badge/-MySql-333333?style=for-the-badge&logo=mysql)\
+ ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
+ ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)\
+ ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse)
  ![Pycharm IDE](https://img.shields.io/badge/-Pycharm%20IDE-333333?style=for-the-badge&logo=pycharm-idea&logoColor=f70486)\
  ![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
@@ -48,6 +49,7 @@ I am Mehedi Hasan, working as a software engineer in a renowned software company
  ![AWS](https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazon)\
  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
  ![Github](https://img.shields.io/badge/-Github-333333?style=for-the-badge&logo=github)
+ ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=for-the-badge&logo=scrum)
 
 ### Github Analytics
 <p align="left">
