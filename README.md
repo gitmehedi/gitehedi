@@ -37,7 +37,7 @@ I am an experienced tech lead with over 10 years of experience in full-stack sof
  ![Redis](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=for-the-badge&logo=redis)
  ![MySql](https://img.shields.io/badge/-MySql-333333?style=for-the-badge&logo=mysql) \
  ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
- ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)\
+ ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse)
  ![Pycharm IDE](https://img.shields.io/badge/-Pycharm%20IDE-333333?style=for-the-badge&logo=pycharm-idea&logoColor=f70486) \
