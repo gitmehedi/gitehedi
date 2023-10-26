@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-0e76a8?style=for-the-badge&logo=Twitter&logoColor=white&color=00acee)](https://twitter.com/gitmehedi)
 [![Instagram](https://img.shields.io/badge/-Instagram-23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&color=FD1D1D)](https://www.instagram.com/swap0n)
 [![Website](https://img.shields.io/badge/-Website-23E4405F?style=for-the-badge&logo=Website&logoColor=white&color=orange)](https://www.swapon.blog) 
-[![Resume](https://img.shields.io/badge/-Resume-23E4405F?style=for-the-badge&logo=Resume&logoColor=Red&color=green)](https://github.com/gitmehedi/gitmehedi.github.io/blob/master/MD_MEHEDI_HASAN.pdf) 
+[![Resume](https://img.shields.io/badge/-Resume-23E4405F?style=for-the-badge&logo=Resume&logoColor=Red&color=green)](https://github.com/gitmehedi/gitmehedi.github.io/blob/master/MD_MEHEDI_HASAN_Python.pdf) 
 
 ![counter](https://komarev.com/ghpvc/?username=gitmehedi&color=brightgreen&&label=PROFILE+VIEWS&style=for-the-badge)
 
@@ -49,7 +49,12 @@ I am an experienced tech lead with over 10 years of experience in full-stack sof
  ![AWS](https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazon) \
  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
  ![Github](https://img.shields.io/badge/-Github-333333?style=for-the-badge&logo=github)
- ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=for-the-badge&logo=scrum)
+ ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=for-the-badge&logo=scrum) \
+ ![REST API](https://img.shields.io/badge/-RESTAPI-333333?style=for-the-badge&logo=rest_api)
+ ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=for-the-badge&logo=graphql)
+ ![gRPC](https://img.shields.io/badge/-gRPC-333333?style=for-the-badge&logo=gRPC)
+ ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=for-the-badge&logo=fafka)
+ ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=for-the-badge&logo=rabbitmq)
 
 ### Github Analytics
 <p align="left">
