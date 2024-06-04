@@ -59,7 +59,7 @@ projects.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,odoo,postgres,react,mysql,bash,docker,kubernetes,git,github,css,html,javascript,mac,bootstrap,django,idea,pycharm,vscode,figma,rabbit,flask,jquery,nodejs,linux,aws,redhat,debian,ubuntu,scrum,rest,graphql,grpc,kafka," />
+    <img src="https://skillicons.dev/icons?i=python,postgres,react,mysql,bash,docker,kubernetes,git,github,css,html,javascript,bootstrap,django,idea,pycharm,vscode,figma,rabbitmq,flask,jquery,nodejs,linux,aws,redhat,debian,ubuntu,graphql,kafka,apple,selenium,redis,prometheus,postman,npm,nginx,md,latex,grafana,jenkins,d3,ansible,vim" />
   </a>
 </p>
 
