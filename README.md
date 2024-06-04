@@ -36,7 +36,6 @@
 <!-- About Section -->
 
 # About me
-<hr/>
 
 I am an experienced tech lead with over 10 years of experience in full-stack software development. I have developed a
 strong understanding of software and ERP implementation, and I'm passionate about delivering high-quality, high impact
@@ -47,8 +46,7 @@ projects.
   <a href="https://github.com/gitmehedi?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-### ⚙️ Personal Stuffs
-<hr/>
+# ⚙️ Personal Stuffs
 
 - 👨‍🎓 Experience Level: 10+ years
 - 🧩 Interested in: Technology, Software Development, Machine Learning, Travelling, Badminton, Football, Cricket,
@@ -57,8 +55,8 @@ projects.
 - ⚡ Fun fact **Love to learn new things**
 
 
-## Use To Code
-<hr/>
+# Use To Code
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,odoo,postgres,react,mysql,bash,docker,kubernetes,git,github,css,html,javascript,mac,bootstrap,django,idea,pycharm,vscode,figma,rabbit,flask,jquery,nodejs,linux,aws,redhat,debian,ubuntu,scrum,rest,graphql,grpc,kafka," />
@@ -66,8 +64,8 @@ projects.
 </p>
 
 
-### Github Analytics
-<hr/>
+# Github Analytics
+
 <p align="left">
   <a href="https://github.com/gitmehedi">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gitmehedi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
