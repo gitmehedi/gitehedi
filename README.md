@@ -20,7 +20,7 @@
 
 <p align="center">
 
- <a href="https://www.linkedin.com/in/nopaws/" target="_blank">
+ <a href="https://www.linkedin.com/in/gitmehedi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gitmehedi"/>
  </a>
  <a href="https://stackoverflow.com/users/2176115/mehedi-hasan" target="_blank">
