@@ -68,24 +68,26 @@ projects.
 
 ### Github Analytics
 <hr/>
-<p align="center">
-  <a href="https://github.com/gitmehedi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitmehedi&theme=radical&border=7F3FBF&background=0D1117" alt="gitmehedi's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/gitmehedi">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitmehedi&theme=radical" alt="Mehedi Hasan GitHub Contribution"/>
-  </a>
-</p>
-
 <p align="left">
   <a href="https://github.com/gitmehedi">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gitmehedi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gitmehedi&layout=compact&langs_count=20&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 </p>
+<p align="left">
+  <a href="https://github.com/gitmehedi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitmehedi&theme=radical" alt="Mehedi Hasan GitHub Contribution"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/gitmehedi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitmehedi&theme=radical&border=7F3FBF&background=0D1117" alt="gitmehedi's GitHub streak"/>
+  </a>
+</p>
+
+
+
+
 
 
 
