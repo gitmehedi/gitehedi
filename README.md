@@ -1,64 +1,91 @@
-## Hey 🤝, it's Mehedi 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nopaws/)
-[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-0e76a8?style=for-the-badge&logo=Stackoverflow&logoColor=white&color=ef8236)](https://stackoverflow.com/users/2176115/mehedi-hasan)
-[![Website](https://img.shields.io/badge/-Website-23E4405F?style=for-the-badge&logo=Website&logoColor=white&color=orange)](https://www.swapon.blog) 
-[![Resume](https://img.shields.io/badge/-Resume-23E4405F?style=for-the-badge&logo=Resume&logoColor=Red&color=green)](https://github.com/gitmehedi/gitmehedi.github.io/blob/master/MD_MEHEDI_HASAN.pdf) 
+<a href="https://komarev.com/ghpvc/?username=gitmehedi">
+  <img align="right" src="https://komarev.com/ghpvc/?username=gitmehedi&color=brightgreen&&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile visitor" />
+</a>
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey 🤝! I'm 
+                <b><a target="_blank" href="https://swapon.me">Mehedi Hasan</a></b>
+        </samp>
+</h3>
 
-![counter](https://komarev.com/ghpvc/?username=gitmehedi&color=brightgreen&&label=PROFILE+VIEWS&style=for-the-badge)
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=Mehedi+Hasan">「 Google Me 」</a>
+    <br>
+    「 I am a developer in Phyton, Odoo, Django, Docker, Kubernetes, JavaScript, React from <b>Dhaka, Bangladesh</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
-I am an experienced tech lead with over 10 years of experience in full-stack software development. I have developed a strong understanding of software and ERP implementation, and I'm passionate about delivering high-quality, high impact technology solutions. I excel at collaborating with stakeholders to identify user needs, design roadmaps, and manage projects.
+<p align="center">
+
+ <a href="https://www.linkedin.com/in/nopaws/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gitmehedi"/>
+ </a>
+ <a href="https://stackoverflow.com/users/2176115/mehedi-hasan" target="_blank">
+  <img src="https://img.shields.io/badge/-Stackoverflow-0e76a8?style=for-the-badge&logo=Stackoverflow&logoColor=white&color=ef8236" alt="gitmehedi" />
+ </a> 
+ <a href="https://github.com/gitmehedi/gitmehedi.github.io/blob/master/MD_MEHEDI_HASAN.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/-Resume-23E4405F?style=for-the-badge&logo=Resume&logoColor=Red&color=green" alt="gitmehedi"  />
+  </a> 
+</p>
+<br />
+
+
+<!-- About Section -->
+
+# About me
+<hr/>
+
+I am an experienced tech lead with over 10 years of experience in full-stack software development. I have developed a
+strong understanding of software and ERP implementation, and I'm passionate about delivering high-quality, high impact
+technology solutions. I excel at collaborating with stakeholders to identify user needs, design roadmaps, and manage
+projects.
+
+<p align="left">
+  <a href="https://github.com/gitmehedi?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
 
 ### ⚙️ Personal Stuffs
+<hr/>
 
-- 👨‍💻 Portfolio [swapon.me](https://swapon.me)
 - 👨‍🎓 Experience Level: 10+ years
-- 💻 I’m currently working as Full Stack Developer 🚀.
-- 🧩 Interested in: Technology, Software Development, Machine Learning, Travelling, Badminton, Football, Cricket, Walking, Cycling.
+- 🧩 Interested in: Technology, Software Development, Machine Learning, Travelling, Badminton, Football, Cricket,
+  Walking, Cycling.
 - 💡 Equipment: Sarcasm, Knowledge, C, Python, HTML, CSS, Linux, and Python!
 - ⚡ Fun fact **Love to learn new things**
 
 
-### 🛠 &nbsp;Tech Stack
+## Use To Code
+<hr/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,odoo,postgres,react,mysql,bash,docker,kubernetes,git,github,css,html,javascript,mac,bootstrap,django,idea,pycharm,vscode,figma,rabbit,flask,jquery,nodejs,linux,aws,redhat,debian,ubuntu,scrum,rest,graphql,grpc,kafka," />
+  </a>
+</p>
 
- ![PYTHON](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
- ![Odoo](https://img.shields.io/badge/-Odoo-05122A?style=for-the-badge&logo=odoo&logoColor=092E20)&nbsp;
- ![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django)&nbsp;
- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask)&nbsp;
- ![PHP](https://img.shields.io/badge/-Php-05122A?style=for-the-badge&logo=php)&nbsp;
- ![Bash](https://img.shields.io/badge/-bash-05122A?style=for-the-badge&logo=bash)&nbsp; \
- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
- ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=for-the-badge&logo=jquery)&nbsp;
- ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp; \
- ![Postgres](https://img.shields.io/badge/-Postgresql-333333?style=for-the-badge&logo=postgresql)
- ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=for-the-badge&logo=mongodb)
- ![Redis](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=for-the-badge&logo=redis)
- ![MySql](https://img.shields.io/badge/-MySql-333333?style=for-the-badge&logo=mysql) \
- ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
- ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
- ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse)
- ![Pycharm IDE](https://img.shields.io/badge/-Pycharm%20IDE-333333?style=for-the-badge&logo=pycharm-idea&logoColor=f70486) \
- ![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
- ![Redhat](https://img.shields.io/badge/-Redhat-333333?style=for-the-badge&logo=redhat)
- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
- ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=for-the-badge&logo=kubernetes)
- ![AWS](https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazon) \
- ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
- ![Github](https://img.shields.io/badge/-Github-333333?style=for-the-badge&logo=github)
- ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=for-the-badge&logo=scrum) \
- ![REST API](https://img.shields.io/badge/-RESTAPI-333333?style=for-the-badge&logo=rest_api)
- ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=for-the-badge&logo=graphql)
- ![gRPC](https://img.shields.io/badge/-gRPC-333333?style=for-the-badge&logo=gRPC)
- ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=for-the-badge&logo=fafka)
- ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=for-the-badge&logo=rabbitmq)
 
 ### Github Analytics
+<hr/>
+<p align="center">
+  <a href="https://github.com/gitmehedi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitmehedi&theme=radical&border=7F3FBF&background=0D1117" alt="gitmehedi's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/gitmehedi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitmehedi&theme=radical" alt="Mehedi Hasan GitHub Contribution"/>
+  </a>
+</p>
+
 <p align="left">
   <a href="https://github.com/gitmehedi">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gitmehedi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gitmehedi&layout=compact&langs_count=20&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 </p>
+
+
 
