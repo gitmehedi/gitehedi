@@ -63,6 +63,13 @@ projects.
   </a>
 </p>
 
+# Important Expertise
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,postgres,react,docker,kubernetes,git,javascript,django,flask,aws,ubuntu,postman,nginx,md,jenkins" />
+  </a>
+</p>
 
 # Github Analytics
 
